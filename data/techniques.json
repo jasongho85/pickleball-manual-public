@@ -1,0 +1,1642 @@
+﻿[
+    {
+        "id":  "kata_01_cloud_split",
+        "shared_technique_id":  "cloud-leap-split-step",
+        "slug":  "cloud-leap-split-step",
+        "name":  "Cloud-Leap (Split-Step)",
+        "category":  "Footwork",
+        "difficulty":  "Beginner",
+        "summary":  "Reactive split-step timing for first-move acceleration. Master the foundational ready position that lets you explode in any direction.",
+        "tags":  [
+                     "footwork",
+                     "reaction",
+                     "readiness"
+                 ],
+        "estimated_minutes":  4,
+        "publish_status":  "ready",
+        "character_id":  "asian_human",
+        "character_slug":  "asian-human",
+        "character_name":  "Asian Martial Artist",
+        "is_default_variant":  true,
+        "quick_drills":  [
+                             "Partner drop: Split-step when your partner drops the ball.",
+                             "Audio cue: Split-step on the sound of contact."
+                         ],
+        "common_errors":  [
+                              "Jumping too high (wasting vertical energy).",
+                              "Landing on flat feet instead of the balls of the feet.",
+                              "Mistiming the hop before the opponent strikes."
+                          ],
+        "checklist":  [
+                          "Feet shoulder-width apart",
+                          "Knees softly bent",
+                          "Weight on balls of feet",
+                          "Paddle centered",
+                          "Simultaneous hop landing"
+                      ],
+        "related_ids":  [
+                            "kata_10_infinite_reach",
+                            "kata_04_stone_wall"
+                        ],
+        "assets":  [
+                       {
+                           "asset_id":  "cloudsplit-overview",
+                           "asset_role":  "overview_video",
+                           "publish_status":  "ready",
+                           "delivery_mode":  "youtube_embed",
+                           "youtube_video_id":  "",
+                           "poster_path":  "/media/posters/cloudsplit-overview.webp"
+                       }
+                   ],
+        "phases":  [
+                       {
+                           "id":  "1_loading",
+                           "label":  "Loading",
+                           "sort_order":  1,
+                           "action":  "Athlete stands in a neutral ready stance with feet about shoulder width apart, knees softly bent, weight on the balls of the feet, paddle centered in front of the chest.",
+                           "teaching_focus":  "Show a true ready position before the split step begins.",
+                           "camera":  "Medium-wide front three-quarter shot showing full lower body and ready posture.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "cloudsplit-1-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "ZCB82SI3i20",
+                                              "poster_path":  "/media/posters/cloudsplit-1loading.webp"
+                                          },
+                                          {
+                                              "asset_id":  "cloudsplit-1-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/01_cloud_split_1_loading_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "2_transition",
+                           "label":  "Transition",
+                           "sort_order":  2,
+                           "action":  "As the opponent strikes the ball, the athlete performs a quick split step: a small simultaneous hop with both feet leaving the ground briefly, then landing softly on the balls of the feet with hips level and torso upright.",
+                           "teaching_focus":  "Show the split step as a quick timing hop, not a squat.",
+                           "camera":  "Side tracking medium shot focused on feet, ankles, knees, and hip level.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "cloudsplit-2-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "MS2pRYlsTKc",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "01_cloud_split-2transition-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/01_cloud_split_2_transition_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "3_execution",
+                           "label":  "Execution",
+                           "sort_order":  3,
+                           "action":  "Immediately after landing, the athlete loads one leg and pushes explosively into the first lateral movement step while the core stays stable and the upper body remains quiet.",
+                           "teaching_focus":  "Show the split step creating a fast directional reaction.",
+                           "camera":  "Tracking side shot following the push-off and first acceleration step.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "cloudsplit-3-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "6FNYN_mGOso",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "01_cloud_split-3execution-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/01_cloud_split_3_execution_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "4_stabilization",
+                           "label":  "Stabilization",
+                           "sort_order":  4,
+                           "action":  "The athlete arrives in a balanced defensive stance with feet re-centered, knees flexed, paddle ready in front, and eyes forward.",
+                           "teaching_focus":  "Show a clean reset into court-ready posture.",
+                           "camera":  "Static wide shot showing the full-body recovery position.",
+                           "duration_seconds":  3,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "cloudsplit-4-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "kgWIo69arPc",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "01_cloud_split-4stabilization-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/01_cloud_split_4_stabilization_anatomy.png"
+                                          }
+                                      ]
+                       }
+                   ]
+    },
+    {
+        "id":  "kata_02_golden_hinge",
+        "shared_technique_id":  "golden-hinge-dink",
+        "slug":  "golden-hinge-dink",
+        "name":  "Golden Hinge (Dink)",
+        "category":  "Soft Game",
+        "difficulty":  "Beginner",
+        "summary":  "The foundation of the non-volley zone. A compact, shoulder-driven push-contact that neutralizes the pace and keeps the ball low.",
+        "tags":  [
+                     "dink",
+                     "soft-game",
+                     "touch"
+                 ],
+        "estimated_minutes":  4,
+        "publish_status":  "ready",
+        "character_id":  "asian_human",
+        "character_slug":  "asian-human",
+        "character_name":  "Asian Martial Artist",
+        "is_default_variant":  true,
+        "quick_drills":  [
+                             "Target practice: Hit 10 dinks in a row into a hula hoop.",
+                             "Wall dinks: Continuous soft contact against a wall."
+                         ],
+        "common_errors":  [
+                              "Flicking the wrist (unstable face).",
+                              "Over-swinging (too much power).",
+                              "Standing too upright (lack of leg engagement)."
+                          ],
+        "checklist":  [
+                          "Low athletic stance",
+                          "Shoulders relaxed",
+                          "Shoulder-driven motion",
+                          "Minimal follow-through",
+                          "Immediate reset to center"
+                      ],
+        "related_ids":  [
+                            "kata_09_monkey_wing",
+                            "kata_08_river_flow"
+                        ],
+        "assets":  [
+                       {
+                           "asset_id":  "goldenhinge-overview",
+                           "asset_role":  "overview_video",
+                           "publish_status":  "ready",
+                           "delivery_mode":  "youtube_embed",
+                           "youtube_video_id":  "",
+                           "poster_path":  ""
+                       }
+                   ],
+        "phases":  [
+                       {
+                           "id":  "1_loading",
+                           "label":  "Loading",
+                           "sort_order":  1,
+                           "action":  "Athlete settles into a low athletic stance with paddle centered in front of the body and shoulders relaxed.",
+                           "teaching_focus":  "Show a calm prepared stance that reduces wrist noise.",
+                           "camera":  "Medium shot framed from chest to paddle.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "goldenhinge-1-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "Y7ig0OevDts",
+                                              "poster_path":  "/media/posters/goldenhinge-1loading.webp"
+                                          },
+                                          {
+                                              "asset_id":  "02_golden_hinge-1loading-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/02_golden_dink_1_loading_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "2_transition",
+                           "label":  "Transition",
+                           "sort_order":  2,
+                           "action":  "Small shuffles move the body behind the ball while the paddle remains stable and slightly open.",
+                           "teaching_focus":  "Show controlled positioning before contact.",
+                           "camera":  "Tracking medium shot following the torso and paddle alignment.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "goldenhinge-2-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "QSZ6fGojnLg",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "02_golden_hinge-2transition-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/02_golden_dink_2_transition_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "3_execution",
+                           "label":  "Execution",
+                           "sort_order":  3,
+                           "action":  "Single soft push-contact sends the ball forward with a compact low-to-high motion and minimal follow-through.",
+                           "teaching_focus":  "Show one clean touch and avoid extra swing motion.",
+                           "camera":  "Close side shot at contact level on paddle, ball, and forearm.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "goldenhinge-3-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "uuKs59YR6xQ",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "02_golden_hinge-3execution-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/02_golden_dink_3_execution_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "4_stabilization",
+                           "label":  "Stabilization",
+                           "sort_order":  4,
+                           "action":  "Athlete returns to a low neutral stance with paddle centered and knees ready.",
+                           "teaching_focus":  "Show immediate readiness after the dink.",
+                           "camera":  "Static wide shot showing the full recovery shape.",
+                           "duration_seconds":  3,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "goldenhinge-4-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "fE5cPZlWYfg",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "02_golden_hinge-4stabilization-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/02_golden_dink_4_stabilization_anatomy.png"
+                                          }
+                                      ]
+                       }
+                   ]
+    },
+    {
+        "id":  "kata_03_heavenly_arc",
+        "shared_technique_id":  "heavenly-arc-slice-drop",
+        "slug":  "heavenly-arc-slice-drop",
+        "name":  "Heavenly Arc (Slice Drop)",
+        "category":  "Drops \u0026 Resets",
+        "difficulty":  "Intermediate",
+        "summary":  "A high-to-low carving path that creates backspin and a shallow bounce. Perfect for dropping the ball into the kitchen from the baseline.",
+        "tags":  [
+                     "slice",
+                     "drop-shot",
+                     "3rd-shot"
+                 ],
+        "estimated_minutes":  4,
+        "publish_status":  "ready",
+        "character_id":  "asian_human",
+        "character_slug":  "asian-human",
+        "character_name":  "Asian Martial Artist",
+        "is_default_variant":  true,
+        "quick_drills":  [
+                             "Bucket drops: Drop 20 balls into a bucket in the kitchen.",
+                             "Partner feed: Practice from the baseline while a partner feeds."
+                         ],
+        "common_errors":  [
+                              "Chopping too hard (uncontrollable pace).",
+                              "High follow-through (launching the ball).",
+                              "Closing the paddle face (hitting the net)."
+                          ],
+        "checklist":  [
+                          "High paddle setup",
+                          "Shoulder-driven carve",
+                          "Quiet wrist",
+                          "Linear paddle path",
+                          "Controlled follow-through"
+                      ],
+        "related_ids":  [
+                            "kata_08_river_flow",
+                            "kata_02_golden_hinge"
+                        ],
+        "assets":  [
+                       {
+                           "asset_id":  "heavenlyarc-overview",
+                           "asset_role":  "overview_video",
+                           "publish_status":  "ready",
+                           "delivery_mode":  "youtube_embed",
+                           "youtube_video_id":  "",
+                           "poster_path":  "/media/posters/heavenlyarc-overview.webp"
+                       }
+                   ],
+        "phases":  [
+                       {
+                           "id":  "1_loading",
+                           "label":  "Loading",
+                           "sort_order":  1,
+                           "action":  "Paddle rises high with the torso coiled and the face slightly open to prepare for a controlled slice.",
+                           "teaching_focus":  "Show the setup for a downward carving path.",
+                           "camera":  "Medium shot on torso, shoulder, and paddle face angle.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "heavenlyarc-1-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "1TjwVioQtg8",
+                                              "poster_path":  "/media/posters/heavenlyarc-1loading.webp"
+                                          },
+                                          {
+                                              "asset_id":  "03_heavenly_arc-1loading-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/03_heavenly_arc_1_loading_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "2_transition",
+                           "label":  "Transition",
+                           "sort_order":  2,
+                           "action":  "The shoulder leads a smooth high-to-low carve while the wrist stays quiet and the paddle path stays linear.",
+                           "teaching_focus":  "Show the shoulder-driven descent clearly.",
+                           "camera":  "Tracking medium shot following the paddle path downward.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "heavenlyarc-2-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "x_E2nXSAZ7Y",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "03_heavenly_arc-2transition-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/03_heavenly_arc_2_transition_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "3_execution",
+                           "label":  "Execution",
+                           "sort_order":  3,
+                           "action":  "One clean underside contact brushes the ball once to create slice and backspin.",
+                           "teaching_focus":  "Show the exact brushing moment and avoid repeated contact.",
+                           "camera":  "Close-up on paddle-ball contact from the side.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "heavenlyarc-3-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "6Bpm9e5YCvA",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "03_heavenly_arc-3execution-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/03_heavenly_arc_3_execution_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "4_stabilization",
+                           "label":  "Stabilization",
+                           "sort_order":  4,
+                           "action":  "Athlete shifts forward slightly and settles into a low balanced stance after contact.",
+                           "teaching_focus":  "Show a controlled finish and move into the next ready position.",
+                           "camera":  "Static wide shot with full-body follow-through and recovery.",
+                           "duration_seconds":  3,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "heavenlyarc-4-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "T_qBLhawdxs",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "03_heavenly_arc-4stabilization-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/03_heavenly_arc_4_stabilization_anatomy.png"
+                                          }
+                                      ]
+                       }
+                   ]
+    },
+    {
+        "id":  "kata_04_stone_wall",
+        "shared_technique_id":  "stone-wall-block",
+        "slug":  "stone-wall-block",
+        "name":  "Stone Wall (Block)",
+        "category":  "Defense",
+        "difficulty":  "Beginner",
+        "summary":  "A compact defensive wall that absorbs pace from hard drives. Minimal motion, maximum absorption.",
+        "tags":  [
+                     "block",
+                     "defense",
+                     "absorption"
+                 ],
+        "estimated_minutes":  4,
+        "publish_status":  "ready",
+        "character_id":  "asian_human",
+        "character_slug":  "asian-human",
+        "character_name":  "Asian Martial Artist",
+        "is_default_variant":  true,
+        "quick_drills":  [
+                             "Rapid fire: Block 10 consecutive drives from a partner at the net.",
+                             "Reflex block: Reaction drills with a ball machine."
+                         ],
+        "common_errors":  [
+                              "Pushing at the ball (adding pace).",
+                              "Over-extending arms (losing stability).",
+                              "Looking away from the ball."
+                          ],
+        "checklist":  [
+                          "Compact ready stance",
+                          "Paddle at chest height",
+                          "Relaxed grip",
+                          "Absorb pace at contact",
+                          "Minimal recoil"
+                      ],
+        "related_ids":  [
+                            "kata_08_river_flow",
+                            "kata_01_cloud_split"
+                        ],
+        "assets":  [
+                       {
+                           "asset_id":  "stonewall-overview",
+                           "asset_role":  "overview_video",
+                           "publish_status":  "ready",
+                           "delivery_mode":  "youtube_embed",
+                           "youtube_video_id":  "",
+                           "poster_path":  ""
+                       }
+                   ],
+        "phases":  [
+                       {
+                           "id":  "1_loading",
+                           "label":  "Loading",
+                           "sort_order":  1,
+                           "action":  "Athlete holds a compact ready stance with the paddle centered at chest height and eyes forward.",
+                           "teaching_focus":  "Show a compact defensive posture with minimal motion.",
+                           "camera":  "Medium shot at chest level.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "stonewall-1-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "gwtm2VOvung",
+                                              "poster_path":  "/media/posters/stonewall-1loading.webp"
+                                          },
+                                          {
+                                              "asset_id":  "04_stone_wall-1loading-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/04_stone_wall_1_loading_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "2_transition",
+                           "label":  "Transition",
+                           "sort_order":  2,
+                           "action":  "The paddle shifts only slightly toward the incoming ball while the grip stays relaxed and the body stays still.",
+                           "teaching_focus":  "Show anticipation and small adjustments.",
+                           "camera":  "Tracking medium shot on paddle line and incoming ball path.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "stonewall-2-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "Nl_bqZbCN50",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "04_stone_wall-2transition-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/04_stone_wall_2_transition_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "3_execution",
+                           "label":  "Execution",
+                           "sort_order":  3,
+                           "action":  "One soft absorption block deadens the ball with a small recoil and no extra paddle movement.",
+                           "teaching_focus":  "Show the single absorbing contact and the recoil.",
+                           "camera":  "Close-up on paddle face and forearm at contact.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "stonewall-3-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "i5vlwGasp-M",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "04_stone_wall-3execution-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/04_stone_wall_3_execution_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "4_stabilization",
+                           "label":  "Stabilization",
+                           "sort_order":  4,
+                           "action":  "Athlete returns the paddle to center and holds a balanced defensive stance.",
+                           "teaching_focus":  "Show the quick recovery after the block.",
+                           "camera":  "Static wide shot showing the whole reset position.",
+                           "duration_seconds":  3,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "stonewall-4-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "d1Hl2jzWdFc",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "04_stone_wall-4stabilization-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/04_stone_wall_4_stabilization_anatomy.png"
+                                          }
+                                      ]
+                       }
+                   ]
+    },
+    {
+        "id":  "kata_05_precision_snap",
+        "shared_technique_id":  "precision-snap-volley",
+        "slug":  "precision-snap-volley",
+        "name":  "Precision Snap (Volley)",
+        "category":  "Volleys",
+        "difficulty":  "Intermediate",
+        "summary":  "A decisive forward strike with immediate stabilization. Controlled linear power for finishing points at the net.",
+        "tags":  [
+                     "volley",
+                     "offensive",
+                     "net-play"
+                 ],
+        "estimated_minutes":  4,
+        "publish_status":  "ready",
+        "character_id":  "asian_human",
+        "character_slug":  "asian-human",
+        "character_name":  "Asian Martial Artist",
+        "is_default_variant":  true,
+        "quick_drills":  [
+                             "Volley battle: Engage in a fast volley rally at the kitchen.",
+                             "Step-in volleys: Practice stepping into the volley for power."
+                         ],
+        "common_errors":  [
+                              "Large backswing (late contact).",
+                              "Over-rotation of the torso.",
+                              "Failing to reset to a neutral stance."
+                          ],
+        "checklist":  [
+                          "Forward stance",
+                          "Weight on front foot",
+                          "Linear forward extension",
+                          "Crisp contact",
+                          "Immediate snap back to center"
+                      ],
+        "related_ids":  [
+                            "kata_06_mountain_peak",
+                            "kata_07_aerial_switch"
+                        ],
+        "assets":  [
+                       {
+                           "asset_id":  "precisionsnap-overview",
+                           "asset_role":  "overview_video",
+                           "publish_status":  "ready",
+                           "delivery_mode":  "youtube_embed",
+                           "youtube_video_id":  "",
+                           "poster_path":  ""
+                       }
+                   ],
+        "phases":  [
+                       {
+                           "id":  "1_loading",
+                           "label":  "Loading",
+                           "sort_order":  1,
+                           "action":  "Athlete sets an aggressive forward stance with weight slightly on the front foot and paddle compact.",
+                           "teaching_focus":  "Show offensive pressure without over-rotating.",
+                           "camera":  "Medium shot on upper body and front-foot pressure.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "precisionsnap-1-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "b-3oav85HC0",
+                                              "poster_path":  "/media/posters/precisionsnap-1loading.webp"
+                                          },
+                                          {
+                                              "asset_id":  "05_precision_snap-1loading-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/05_precision_snap_1_loading_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "2_transition",
+                           "label":  "Transition",
+                           "sort_order":  2,
+                           "action":  "A short step forward creates linear extension while the torso stays mostly square to the target.",
+                           "teaching_focus":  "Show linear forward power and control.",
+                           "camera":  "Tracking medium shot following the step and torso line.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "precisionsnap-2-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "tNFibTgKJlA",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "05_precision_snap-2transition-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/05_precision_snap_2_transition_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "3_execution",
+                           "label":  "Execution",
+                           "sort_order":  3,
+                           "action":  "One crisp volley contact sends the ball forward with a short, compact strike and immediate stop.",
+                           "teaching_focus":  "Show the decisive contact point and compact finish.",
+                           "camera":  "Close-up side shot at paddle-ball contact.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "precisionsnap-3-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "nLd231OJSH8",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "05_precision_snap-3execution-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/05_precision_snap_3_execution_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "4_stabilization",
+                           "label":  "Stabilization",
+                           "sort_order":  4,
+                           "action":  "Athlete snaps back to center with a balanced athletic base and ready paddle position.",
+                           "teaching_focus":  "Show the fast defensive reset.",
+                           "camera":  "Static wide shot of the recovery stance.",
+                           "duration_seconds":  3,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "precisionsnap-4-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "jGaCifK6b6g",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "05_precision_snap-4stabilization-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/05_precision_snap_4_stabilization_anatomy.png"
+                                          }
+                                      ]
+                       }
+                   ]
+    },
+    {
+        "id":  "kata_06_mountain_peak",
+        "shared_technique_id":  "mountain-peak-power-drive",
+        "slug":  "mountain-peak-power-drive",
+        "name":  "Mountain Peak (Power Drive)",
+        "category":  "Power Game",
+        "difficulty":  "Advanced",
+        "summary":  "Full-body kinetic chain power. A heavy drive that uncoils from the ground up to overwhelm opponents.",
+        "tags":  [
+                     "drive",
+                     "power",
+                     "kinetic-chain"
+                 ],
+        "estimated_minutes":  4,
+        "publish_status":  "ready",
+        "character_id":  "asian_human",
+        "character_slug":  "asian-human",
+        "character_name":  "Asian Martial Artist",
+        "is_default_variant":  true,
+        "quick_drills":  [
+                             "Ground-up focus: Practice driving the ball from a static position.",
+                             "Full swing target: Drive balls into a target area on the baseline."
+                         ],
+        "common_errors":  [
+                              "Arm-only swing (missing body power).",
+                              "Losing balance during rotation.",
+                              "Incomplete follow-through."
+                          ],
+        "checklist":  [
+                          "Strong unit turn",
+                          "Weight on back foot",
+                          "Hip-led uncoil",
+                          "Decisive contact at peak rotation",
+                          "Balanced landing on front foot"
+                      ],
+        "related_ids":  [
+                            "kata_05_precision_snap",
+                            "kata_07_aerial_switch"
+                        ],
+        "assets":  [
+                       {
+                           "asset_id":  "mountainpeak-overview",
+                           "asset_role":  "overview_video",
+                           "publish_status":  "ready",
+                           "delivery_mode":  "youtube_embed",
+                           "youtube_video_id":  "",
+                           "poster_path":  ""
+                       }
+                   ],
+        "phases":  [
+                       {
+                           "id":  "1_loading",
+                           "label":  "Loading",
+                           "sort_order":  1,
+                           "action":  "Athlete coils into a strong unit turn with weight on the back foot and shoulders fully loaded.",
+                           "teaching_focus":  "Show the full body loading phase clearly.",
+                           "camera":  "Wide shot showing feet, hips, torso, and shoulder line.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "mountainpeak-1-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "EGMuiFhkgS8",
+                                              "poster_path":  "/media/posters/mountainpeak-1loading.webp"
+                                          },
+                                          {
+                                              "asset_id":  "06_mountain_peak-1loading-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/06_mountain_peak_1_loading_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "2_transition",
+                           "label":  "Transition",
+                           "sort_order":  2,
+                           "action":  "Hips begin the uncoil while the arm lag behind, creating a clear kinetic chain from the ground upward.",
+                           "teaching_focus":  "Show the sequence of force transfer through the body.",
+                           "camera":  "Tracking medium shot from hips through torso to paddle.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "mountainpeak-2-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "_Ea7wBqTE5s",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "06_mountain_peak-2transition-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/06_mountain_peak_2_transition_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "3_execution",
+                           "label":  "Execution",
+                           "sort_order":  3,
+                           "action":  "A power vertical paddle face drives the ball forward with while the body rotates forward with non paddle hand rotating with the body.",
+                           "teaching_focus":  "Show the exact impact moment.",
+                           "camera":  "Close-up on paddle face at contact.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "mountainpeak-3-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "exajYOHh6eo",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "06_mountain_peak-3execution-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/06_mountain_peak_3_execution_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "4_stabilization",
+                           "label":  "Stabilization",
+                           "sort_order":  4,
+                           "action":  "Transitions from rotating hips after making contact with the ball until lands in balance on the front foot. Paddle arm extended and left hand out for balance.",
+                           "teaching_focus":  "Show safe deceleration and stable recovery.",
+                           "camera":  "Static wide shot showing the full balanced finish.",
+                           "duration_seconds":  3,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "mountainpeak-4-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "ChwoxPKbmgk",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "06_mountain_peak-4stabilization-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/06_mountain_peak_4_stabilization_anatomy.png"
+                                          }
+                                      ]
+                       }
+                   ]
+    },
+    {
+        "id":  "kata_07_aerial_switch",
+        "shared_technique_id":  "aerial-switch-overhead",
+        "slug":  "aerial-switch-overhead",
+        "name":  "Aerial Switch (Overhead)",
+        "category":  "Overheads",
+        "difficulty":  "Advanced",
+        "summary":  "Vertical extension and explosive downward power. Transition from tracking a lob to a dominant overhead smash.",
+        "tags":  [
+                     "overhead",
+                     "smash",
+                     "offensive"
+                 ],
+        "estimated_minutes":  4,
+        "publish_status":  "ready",
+        "character_id":  "asian_human",
+        "character_slug":  "asian-human",
+        "character_name":  "Asian Martial Artist",
+        "is_default_variant":  true,
+        "quick_drills":  [
+                             "Tracking drills: Move backward while tracking a high lob.",
+                             "Smash target: Hit overheads into the opponent\u0027s feet area."
+                         ],
+        "common_errors":  [
+                              "Back-pedaling instead of side-shuffling.",
+                              "Reaching too early (loss of extension).",
+                              "Hard landing on flat feet."
+                          ],
+        "checklist":  [
+                          "Bend knees for vertical jump",
+                          "Explosive upward drive",
+                          "Shoulder and hip rotation",
+                          "Maximum reach at contact",
+                          "Soft landing through the legs"
+                      ],
+        "related_ids":  [
+                            "kata_06_mountain_peak",
+                            "kata_05_precision_snap"
+                        ],
+        "assets":  [
+                       {
+                           "asset_id":  "aerialswitch-overview",
+                           "asset_role":  "overview_video",
+                           "publish_status":  "ready",
+                           "delivery_mode":  "youtube_embed",
+                           "youtube_video_id":  "",
+                           "poster_path":  ""
+                       }
+                   ],
+        "phases":  [
+                       {
+                           "id":  "1_loading",
+                           "label":  "Loading",
+                           "sort_order":  1,
+                           "action":  "Athlete tracks the ball overhead while bending the knees, paddle in right hand, and loading the rear leg for a jump.",
+                           "teaching_focus":  "Show the prep for an overhead strike.",
+                           "camera":  "Wide shot that includes the descending ball and full body stance.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "aerialswitch-1-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "XhAdLVTjWKI",
+                                              "poster_path":  "/media/posters/aerialswitch-1loading.webp"
+                                          },
+                                          {
+                                              "asset_id":  "07_aerial_switch-1loading-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/07_aerial_switch_1_loading_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "2_transition",
+                           "label":  "Transition",
+                           "sort_order":  2,
+                           "action":  "The athlete explodes upward into a controlled leap as the shoulders and hips rotate toward the ball with right hand paddle rising up.",
+                           "teaching_focus":  "Show the jump and body rotation without over-stylizing it.",
+                           "camera":  "Medium tracking shot on the upward drive and torso rotation.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "aerialswitch-2-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "qeKEDJDX_Dw",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "07_aerial_switch-2transition-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/07_aerial_switch_2_transition_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "3_execution",
+                           "label":  "Execution",
+                           "sort_order":  3,
+                           "action":  "Athlete paddle makes contact with the ball at the highest reachable point with the paddle fully extended.",
+                           "teaching_focus":  "Show the overhead strike at peak extension.",
+                           "camera":  "Close-up or tight medium on upper body, paddle, and ball at contact.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "aerialswitch-3-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "nRb2kP11m0c",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "07_aerial_switch-3execution-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/07_aerial_switch_3_execution_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "4_stabilization",
+                           "label":  "Stabilization",
+                           "sort_order":  4,
+                           "action":  "Athlete lands with paddle in right hand while softly, absorbs the impact through the legs, and returns to a neutral ready stance.",
+                           "teaching_focus":  "Show safe landing mechanics and reset.",
+                           "camera":  "Wide shot showing the landing and full recovery.",
+                           "duration_seconds":  3,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "aerialswitch-4-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "r6slBedMVhQ",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "07_aerial_switch-4stabilization-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/07_aerial_switch_4_stabilization_anatomy.png"
+                                          }
+                                      ]
+                       }
+                   ]
+    },
+    {
+        "id":  "kata_08_river_flow",
+        "shared_technique_id":  "river-flow-reset",
+        "slug":  "river-flow-reset",
+        "name":  "River Flow (Reset)",
+        "category":  "Drops \u0026 Resets",
+        "difficulty":  "Intermediate",
+        "summary":  "Low-preparation touch to absorb extreme pace. A flowing reset that turns a defensive scramble back into a neutral rally.",
+        "tags":  [
+                     "reset",
+                     "defense",
+                     "soft-game"
+                 ],
+        "estimated_minutes":  4,
+        "publish_status":  "ready",
+        "character_id":  "asian_human",
+        "character_slug":  "asian-human",
+        "character_name":  "Asian Martial Artist",
+        "is_default_variant":  true,
+        "quick_drills":  [
+                             "Reset from baseline: Block drives from the baseline and drop into kitchen.",
+                             "Touch drill: Practice varying height of resets."
+                         ],
+        "common_errors":  [
+                              "Wrist collapse (loss of directional control).",
+                              "High preparation (late contact).",
+                              "Insufficient hip drop (limiting reach and control)."
+                          ],
+        "checklist":  [
+                          "Hips low",
+                          "Paddle below knee height",
+                          "Smooth upward lift",
+                          "Quiet torso",
+                          "Pace absorption at contact"
+                      ],
+        "related_ids":  [
+                            "kata_04_stone_wall",
+                            "kata_03_heavenly_arc"
+                        ],
+        "assets":  [
+                       {
+                           "asset_id":  "riverflow-overview",
+                           "asset_role":  "overview_video",
+                           "publish_status":  "ready",
+                           "delivery_mode":  "youtube_embed",
+                           "youtube_video_id":  "",
+                           "poster_path":  "/media/posters/riverflow-overview.webp"
+                       }
+                   ],
+        "phases":  [
+                       {
+                           "id":  "1_loading",
+                           "label":  "Loading",
+                           "sort_order":  1,
+                           "action":  "Athlete lowers the hips and drops the paddle below knee height to prepare a soft reset.",
+                           "teaching_focus":  "Show the low preparation for control and touch.",
+                           "camera":  "Medium-low shot focused on knees, hips, and paddle.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "riverflow-1-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "2W3JQTAmfok",
+                                              "poster_path":  "/media/posters/riverflow-1loading.webp"
+                                          },
+                                          {
+                                              "asset_id":  "08_river_flow-1loading-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/08_river_flow_1_loading_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "2_transition",
+                           "label":  "Transition",
+                           "sort_order":  2,
+                           "action":  "The paddle rises smoothly from the shoulder while the torso stays upright and quiet.",
+                           "teaching_focus":  "Show a smooth upward path without wrist collapse.",
+                           "camera":  "Medium tracking shot following the paddle lift.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "riverflow-2-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "GgIrDHXqNBg",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "08_river_flow-2transition-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/08_river_flow_2_transition_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "3_execution",
+                           "label":  "Execution",
+                           "sort_order":  3,
+                           "action":  "A single soft contact absorbs pace and sends the ball gently forward with no extra taps.",
+                           "teaching_focus":  "Show the pace absorption clearly.",
+                           "camera":  "Close-up on paddle face and ball contact.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "riverflow-3-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "lI2BTIjMwzY",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "08_river_flow-3execution-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/08_river_flow_3_execution_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "4_stabilization",
+                           "label":  "Stabilization",
+                           "sort_order":  4,
+                           "action":  "Athlete steps back into a balanced stance with paddle ready in front of the body.",
+                           "teaching_focus":  "Show the transition back to defense.",
+                           "camera":  "Static wide shot showing the recovery posture.",
+                           "duration_seconds":  3,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "riverflow-4-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "C6BjJVCS2AU",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "08_river_flow-4stabilization-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/08_river_flow_4_stabilization_anatomy.png"
+                                          }
+                                      ]
+                       }
+                   ]
+    },
+    {
+        "id":  "kata_09_monkey_wing",
+        "shared_technique_id":  "monkey-wing-topspin-roll",
+        "slug":  "monkey-wing-topspin-roll",
+        "name":  "Monkey Wing (Topspin Roll)",
+        "category":  "Soft Game",
+        "difficulty":  "Intermediate",
+        "summary":  "Angular velocity and forearm rotation. An aggressive topspin dink or volley that rolls over the net with dipping action.",
+        "tags":  [
+                     "topspin",
+                     "roll",
+                     "soft-game"
+                 ],
+        "estimated_minutes":  4,
+        "publish_status":  "ready",
+        "character_id":  "asian_human",
+        "character_slug":  "asian-human",
+        "character_name":  "Asian Martial Artist",
+        "is_default_variant":  true,
+        "quick_drills":  [
+                             "Shadow rolls: Practice the forearm rotation without a ball.",
+                             "Topspin dinks: Hit rolling dinks against a partner."
+                         ],
+        "common_errors":  [
+                              "Elbow flare (loss of rotation stability).",
+                              "Large backswing (reducing reaction time).",
+                              "Flat contact (no topspin)."
+                          ],
+        "checklist":  [
+                          "Shoulder closed",
+                          "Paddle below ball level",
+                          "Hip uncoil",
+                          "Forearm upward rotation",
+                          "Upward brushing contact"
+                      ],
+        "related_ids":  [
+                            "kata_02_golden_hinge",
+                            "kata_05_precision_snap"
+                        ],
+        "assets":  [
+                       {
+                           "asset_id":  "monkeywing-overview",
+                           "asset_role":  "overview_video",
+                           "publish_status":  "ready",
+                           "delivery_mode":  "youtube_embed",
+                           "youtube_video_id":  "",
+                           "poster_path":  ""
+                       }
+                   ],
+        "phases":  [
+                       {
+                           "id":  "1_loading",
+                           "label":  "Loading",
+                           "sort_order":  1,
+                           "action":  "Athlete closes the shoulder and drops the paddle below ball level in a compact backhand setup.",
+                           "teaching_focus":  "Show the coiled backhand preparation.",
+                           "camera":  "Medium shot on shoulder closure and paddle height.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "monkeywing-1-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "5C4XOEyj_hk",
+                                              "poster_path":  "/media/posters/monkeywing-1loading.webp"
+                                          },
+                                          {
+                                              "asset_id":  "09_monkey_wing-1loading-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/09_monkey_wing_1_loading_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "2_transition",
+                           "label":  "Transition",
+                           "sort_order":  2,
+                           "action":  "The hips uncoil and the forearm rotates upward to create a clear topspin path.",
+                           "teaching_focus":  "Show the transfer of angular velocity.",
+                           "camera":  "Tracking medium shot following the forearm and torso rotation.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "monkeywing-2-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "bf83EjcpMC0",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "09_monkey_wing-2transition-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/09_monkey_wing_2_transition_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "3_execution",
+                           "label":  "Execution",
+                           "sort_order":  3,
+                           "action":  "One upward brushing contact rolls over the ball and creates topspin with a compact finish.",
+                           "teaching_focus":  "Show the exact brushing contact once.",
+                           "camera":  "Close-up on paddle brushing the ball from the side.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "monkeywing-3-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "1aJUL8OO498",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "09_monkey_wing-3execution-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/09_monkey_wing_3_execution_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "4_stabilization",
+                           "label":  "Stabilization",
+                           "sort_order":  4,
+                           "action":  "Athlete finishes high across the body and holds a balanced recovery stance.",
+                           "teaching_focus":  "Show the controlled end position.",
+                           "camera":  "Static wide shot showing the completed follow-through.",
+                           "duration_seconds":  3,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "monkeywing-4-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "r9rYZ8Iu3kc",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "09_monkey_wing-4stabilization-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/09_monkey_wing_4_stabilization_anatomy.png"
+                                          }
+                                      ]
+                       }
+                   ]
+    },
+    {
+        "id":  "kata_10_infinite_reach",
+        "shared_technique_id":  "infinite-reach-lunge",
+        "slug":  "infinite-reach-lunge",
+        "name":  "Infinite Reach (Lunge)",
+        "category":  "Footwork",
+        "difficulty":  "Advanced",
+        "summary":  "Lateral extension and end-range stability. Master the deep lunge to retrieve wide balls without sacrificing core integrity.",
+        "tags":  [
+                     "lunge",
+                     "footwork",
+                     "lateral-move"
+                 ],
+        "estimated_minutes":  4,
+        "publish_status":  "ready",
+        "character_id":  "asian_human",
+        "character_slug":  "asian-human",
+        "character_name":  "Asian Martial Artist",
+        "is_default_variant":  true,
+        "quick_drills":  [
+                             "Lunge reaches: Static lunges reaching as far as possible.",
+                             "Sideline reaches: Practice reaching for balls near the sideline."
+                         ],
+        "common_errors":  [
+                              "Bending at the waist (core instability).",
+                              "Step is too short (lack of reach).",
+                              "Failing to drive back to center."
+                          ],
+        "checklist":  [
+                          "Deep lateral step",
+                          "Stable tall core",
+                          "Controlled descent",
+                          "Stable outside knee",
+                          "Explosive drive to center"
+                      ],
+        "related_ids":  [
+                            "kata_01_cloud_split",
+                            "kata_08_river_flow"
+                        ],
+        "assets":  [
+                       {
+                           "asset_id":  "infinitereach-overview",
+                           "asset_role":  "overview_video",
+                           "publish_status":  "ready",
+                           "delivery_mode":  "youtube_embed",
+                           "youtube_video_id":  "",
+                           "poster_path":  "/media/posters/infinitereach-overview.webp"
+                       }
+                   ],
+        "phases":  [
+                       {
+                           "id":  "1_loading",
+                           "label":  "Loading",
+                           "sort_order":  1,
+                           "action":  "Athlete initiates a deep lateral step while keeping the core tall and stable.",
+                           "teaching_focus":  "Show the setup for the lateral reach.",
+                           "camera":  "Wide tracking shot that shows the full step and body line.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "infinitereach-1-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "4L11QmjiUSo",
+                                              "poster_path":  "/media/posters/infinitereach-1loading.webp"
+                                          },
+                                          {
+                                              "asset_id":  "10_infinite_reach-1loading-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/10_infinite_reach_1_loading_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "2_transition",
+                           "label":  "Transition",
+                           "sort_order":  2,
+                           "action":  "The athlete lowers into a controlled lunge as the outside leg bends and the paddle arm extends.",
+                           "teaching_focus":  "Show the lowering phase and outside-leg support.",
+                           "camera":  "Wide or medium-wide tracking shot following the descent.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "infinitereach-2-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "3N6egVNspKs",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "10_infinite_reach-2transition-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/10_infinite_reach_2_transition_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "3_execution",
+                           "label":  "Execution",
+                           "sort_order":  3,
+                           "action":  "One contact is made at maximum reach with a stable torso and a firm but controlled wrist with paddle in hand.",
+                           "teaching_focus":  "Show end-range control without losing balance.",
+                           "camera":  "Close-up or tight medium on the outside knee, core, and paddle contact.",
+                           "duration_seconds":  4,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "infinitereach-3-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "ilg8_9_rBoY",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "10_infinite_reach-3execution-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/10_infinite_reach_3_execution_anatomy.png"
+                                          }
+                                      ]
+                       },
+                       {
+                           "id":  "4_stabilization",
+                           "label":  "Stabilization",
+                           "sort_order":  4,
+                           "action":  "The athlete drives back to center and returns to a neutral ready stance.",
+                           "teaching_focus":  "Show the concentric recovery clearly.",
+                           "camera":  "Static wide shot showing the full recovery back to center court.",
+                           "duration_seconds":  3,
+                           "visual_mode":  "normal",
+                           "publish_status":  "ready",
+                           "assets":  [
+                                          {
+                                              "asset_id":  "infinitereach-4-video",
+                                              "asset_role":  "phase_video",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "youtube_embed",
+                                              "youtube_video_id":  "-AD_dYHSeDM",
+                                              "poster_path":  ""
+                                          },
+                                          {
+                                              "asset_id":  "10_infinite_reach-4stabilization-anatomy",
+                                              "asset_role":  "anatomy_image",
+                                              "publish_status":  "ready",
+                                              "delivery_mode":  "static_file",
+                                              "path":  "/media/anatomy/10_infinite_reach_4_stabilization_anatomy.png"
+                                          }
+                                      ]
+                       }
+                   ]
+    }
+]

@@ -1,0 +1,9 @@
+[
+  { "id": "Footwork", "name": "Footwork", "icon": "🦶" },
+  { "id": "Soft Game", "name": "Soft Game", "icon": "🏸" },
+  { "id": "Drops & Resets", "name": "Drops & Resets", "icon": "🍂" },
+  { "id": "Defense", "name": "Defense", "icon": "🛡️" },
+  { "id": "Volleys", "name": "Volleys", "icon": "⚡" },
+  { "id": "Power Game", "name": "Power Game", "icon": "🔥" },
+  { "id": "Overheads", "name": "Overheads", "icon": "🌤️" }
+]

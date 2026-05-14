@@ -1,0 +1,112 @@
+﻿[
+    {
+        "id":  "kata_01_cloud_split",
+        "name":  "Cloud-Leap (Split-Step)",
+        "category":  "Footwork",
+        "difficulty":  "Beginner",
+        "tags":  [
+                     "footwork",
+                     "reaction",
+                     "readiness"
+                 ]
+    },
+    {
+        "id":  "kata_02_golden_hinge",
+        "name":  "Golden Hinge (Dink)",
+        "category":  "Soft Game",
+        "difficulty":  "Beginner",
+        "tags":  [
+                     "dink",
+                     "soft-game",
+                     "touch"
+                 ]
+    },
+    {
+        "id":  "kata_03_heavenly_arc",
+        "name":  "Heavenly Arc (Slice Drop)",
+        "category":  "Drops \u0026 Resets",
+        "difficulty":  "Intermediate",
+        "tags":  [
+                     "slice",
+                     "drop-shot",
+                     "3rd-shot"
+                 ]
+    },
+    {
+        "id":  "kata_04_stone_wall",
+        "name":  "Stone Wall (Block)",
+        "category":  "Defense",
+        "difficulty":  "Beginner",
+        "tags":  [
+                     "block",
+                     "defense",
+                     "absorption"
+                 ]
+    },
+    {
+        "id":  "kata_05_precision_snap",
+        "name":  "Precision Snap (Volley)",
+        "category":  "Volleys",
+        "difficulty":  "Intermediate",
+        "tags":  [
+                     "volley",
+                     "offensive",
+                     "net-play"
+                 ]
+    },
+    {
+        "id":  "kata_06_mountain_peak",
+        "name":  "Mountain Peak (Power Drive)",
+        "category":  "Power Game",
+        "difficulty":  "Advanced",
+        "tags":  [
+                     "drive",
+                     "power",
+                     "kinetic-chain"
+                 ]
+    },
+    {
+        "id":  "kata_07_aerial_switch",
+        "name":  "Aerial Switch (Overhead)",
+        "category":  "Overheads",
+        "difficulty":  "Advanced",
+        "tags":  [
+                     "overhead",
+                     "smash",
+                     "offensive"
+                 ]
+    },
+    {
+        "id":  "kata_08_river_flow",
+        "name":  "River Flow (Reset)",
+        "category":  "Drops \u0026 Resets",
+        "difficulty":  "Intermediate",
+        "tags":  [
+                     "reset",
+                     "defense",
+                     "soft-game"
+                 ]
+    },
+    {
+        "id":  "kata_09_monkey_wing",
+        "name":  "Monkey Wing (Topspin Roll)",
+        "category":  "Soft Game",
+        "difficulty":  "Intermediate",
+        "tags":  [
+                     "topspin",
+                     "roll",
+                     "soft-game"
+                 ]
+    },
+    {
+        "id":  "kata_10_infinite_reach",
+        "name":  "Infinite Reach (Lunge)",
+        "category":  "Footwork",
+        "difficulty":  "Advanced",
+        "tags":  [
+                     "lunge",
+                     "footwork",
+                     "lateral-move"
+                 ]
+    }
+]
