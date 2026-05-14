@@ -2,18 +2,18 @@
   "name": "Pickleball Kata",
   "short_name": "PB Kata",
   "description": "Mobile-first pickleball training manual — master technical drills with phase-by-phase instruction.",
-  "start_url": "/",
+  "start_url": "/pickleball-manual-public/",
   "display": "standalone",
   "background_color": "#0f1117",
   "theme_color": "#0f1117",
   "icons": [
     {
-      "src": "/app-icons/icon-192.png",
+      "src": "/pickleball-manual-public/app-icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/app-icons/icon-512.png",
+      "src": "/pickleball-manual-public/app-icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
