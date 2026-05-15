@@ -1,0 +1,149 @@
+{
+  "characters": {
+    "default": {
+      "id": "asian_human",
+      "label": "Sensei",
+      "emoji": "🥋"
+    },
+    "popeye": {
+      "id": "popeye",
+      "label": "Popeye",
+      "emoji": "⚓"
+    }
+  },
+  "media": {
+    "kata_01_cloud_split": {
+      "overview": {
+        "popeye": { "youtube_video_id": "", "poster_path": "" }
+      },
+      "1_loading": {
+        "popeye": { "youtube_video_id": "dv0nJQ6SrD8", "poster_path": "" }
+      },
+      "2_transition": {
+        "popeye": { "youtube_video_id": "OqEI7F6zD1g", "poster_path": "" }
+      },
+      "3_execution": {
+        "popeye": { "youtube_video_id": "cOG39ryJG0E", "poster_path": "" }
+      },
+      "4_stabilization": {
+        "popeye": { "youtube_video_id": "onD-7BlIkRQ", "poster_path": "" }
+      }
+    },
+    "kata_02_golden_hinge": {
+      "overview": {
+        "popeye": { "youtube_video_id": "", "poster_path": "" }
+      },
+      "1_loading": {
+        "popeye": { "youtube_video_id": "oEq5sgUYwJ4", "poster_path": "" }
+      },
+      "2_transition": {
+        "popeye": { "youtube_video_id": "yYm9BiHvZFY", "poster_path": "" }
+      },
+      "3_execution": {
+        "popeye": { "youtube_video_id": "Q2rVuq_sfgQ", "poster_path": "" }
+      },
+      "4_stabilization": {
+        "popeye": { "youtube_video_id": "CwUWajVZZy8", "poster_path": "" }
+      }
+    },
+    "kata_03_heavenly_arc": {
+      "overview": {
+        "popeye": { "youtube_video_id": "", "poster_path": "" }
+      },
+      "1_loading": {
+        "popeye": { "youtube_video_id": "mxxcvyaz6XI", "poster_path": "" }
+      },
+      "2_transition": {
+        "popeye": { "youtube_video_id": "JggXJPiZvmA", "poster_path": "" }
+      },
+      "3_execution": {
+        "popeye": { "youtube_video_id": "ORz8NA3AiCo", "poster_path": "" }
+      },
+      "4_stabilization": {
+        "popeye": { "youtube_video_id": "-44Cr1Yvxy8", "poster_path": "" }
+      }
+    },
+    "kata_04_stone_wall": {
+      "overview": {
+        "popeye": { "youtube_video_id": "", "poster_path": "" }
+      },
+      "1_loading": {
+        "popeye": { "youtube_video_id": "rrvizstvw0I", "poster_path": "" }
+      },
+      "2_transition": {
+        "popeye": { "youtube_video_id": "teNtPAc3thI", "poster_path": "" }
+      },
+      "3_execution": {
+        "popeye": { "youtube_video_id": "NhQTQrJ642E", "poster_path": "" }
+      },
+      "4_stabilization": {
+        "popeye": { "youtube_video_id": "KmWX9EIuA-M", "poster_path": "" }
+      }
+    },
+    "kata_05_precision_snap": {
+      "overview": {
+        "popeye": { "youtube_video_id": "", "poster_path": "" }
+      },
+      "1_loading": {
+        "popeye": { "youtube_video_id": "0iMr52-A9SE", "poster_path": "" }
+      },
+      "2_transition": {
+        "popeye": { "youtube_video_id": "_tSpXkkKo98", "poster_path": "" }
+      },
+      "3_execution": {
+        "popeye": { "youtube_video_id": "kHn8I_Tdi54", "poster_path": "" }
+      },
+      "4_stabilization": {
+        "popeye": { "youtube_video_id": "6Ha7POS-BYU", "poster_path": "" }
+      }
+    },
+    "kata_06_mountain_peak": {
+      "overview": {
+        "popeye": { "youtube_video_id": "", "poster_path": "" }
+      },
+      "1_loading": {
+        "popeye": { "youtube_video_id": "icxpacRkdmY", "poster_path": "" }
+      },
+      "2_transition": {
+        "popeye": { "youtube_video_id": "7nM2NZXS2Q0", "poster_path": "" }
+      },
+      "3_execution": {
+        "popeye": { "youtube_video_id": "DqIIEQ7OzzQ", "poster_path": "" }
+      },
+      "4_stabilization": {
+        "popeye": { "youtube_video_id": "45WDGT0K52E", "poster_path": "" }
+      }
+    },
+    "kata_07_aerial_switch": {
+      "overview": {
+        "popeye": { "youtube_video_id": "", "poster_path": "" }
+      },
+      "1_loading": {
+        "popeye": { "youtube_video_id": "97_fPpRm5Ww", "poster_path": "" }
+      },
+      "2_transition": {
+        "popeye": { "youtube_video_id": "TZ9p1K0tbPk", "poster_path": "" }
+      },
+      "3_execution": {
+        "popeye": { "youtube_video_id": "kBbcPrk69LI", "poster_path": "" }
+      },
+      "4_stabilization": {
+        "popeye": { "youtube_video_id": "ucxNuBQUmjU", "poster_path": "" }
+      }
+    },
+    "kata_08_river_flow": {
+      "overview": {
+        "popeye": { "youtube_video_id": "", "poster_path": "" }
+      },
+      "1_loading": {
+        "popeye": { "youtube_video_id": "yKDq50MWEfc", "poster_path": "" }
+      },
+      "2_transition": {
+        "popeye": { "youtube_video_id": "EmpLeDdjhMI", "poster_path": "" }
+      },
+      "3_execution": {
+        "popeye": { "youtube_video_id": "wnQEY9_OkdY", "poster_path": "" }
+      }
+    }
+  }
+}
